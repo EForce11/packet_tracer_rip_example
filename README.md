@@ -1,5 +1,8 @@
 # Cisco Packet Tracer Project: Network Topology and Routing
 
+![Screenshot from 2024-08-18 22-22-26](https://github.com/user-attachments/assets/54dbfcb4-e2ea-45b6-bb8a-a3348ed004f6)
+
+
 This project involves the creation of a network topology and routing configuration using Cisco Packet Tracer. The primary goal of this project is to establish communication between various network devices, including routers, switches, servers, and end-user devices.
 
 ## About the Project
