@@ -9,8 +9,8 @@ This project involves the creation of a network topology and routing configurati
 
 The network topology consists of the following components and configurations:
 
-- **Routers**: The project includes three 1941 series routers. The connections between these routers are configured using the RIPv2 routing protocol.
-- **Switches**: 2960-24TT model switches are used to interconnect various devices within the network.
+- **Routers**: The project includes three routers. The connections between these routers are configured using the RIP routing protocol.
+- **Switches**: switches are used to interconnect various devices within the network.
 - **Servers**: The network includes DHCP, DNS, HTTP, and Email servers.
 - **Wireless Network**: A wireless network is established using an Access Point (AP), connecting laptops and PCs wirelessly.
 - **PCs and Laptops**: Different subnets contain PCs and laptops, some connected via wired and others via wireless connections.
@@ -18,7 +18,7 @@ The network topology consists of the following components and configurations:
 
 ## Configuration Details
 
-- **RIP Routing**: Dynamic routing between routers is enabled using the RIPv2 protocol.
+- **RIP Routing**: Dynamic routing between routers is enabled using the RIP protocol.
 - **DHCP**: The DHCP server is configured to automatically assign IP addresses to devices in the network.
 - **DNS**: The DNS server is configured to resolve domain names to IP addresses.
 - **HTTP**: The HTTP server provides web services.
@@ -41,9 +41,3 @@ The network topology consists of the following components and configurations:
    - If connectivity issues arise, check the configurations on routers and switches.
    - Ensure the DHCP server is operational and assigning IP addresses correctly.
    - If DNS resolution fails, verify the DNS server configuration.
-
-## Project Files
-
-- `222017034_Emir_Furkan_ULU_Sinav.pkt`: Cisco Packet Tracer project file.
-- `README.md`: This document.
-
